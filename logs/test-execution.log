@@ -1,0 +1,47 @@
+2025-02-09 17:10:03 INFO  WebDriverManager:1212 - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-09 17:10:03 INFO  WebDriverManager:1265 - Exporting webdriver.chrome.driver as C:\Users\Vineetha\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-09 17:10:04 INFO  BaseTest:64 - Browser setup completed successfully for browser: chrome
+2025-02-09 17:10:04 INFO  StockTest:19 - Starting the stock information verification test
+2025-02-09 17:10:04 INFO  StockTest:27 - Base URL : https://www.nseindia.com/get-quotes/equity?symbol=RCOM
+2025-02-09 17:10:04 INFO  StockTest:28 - Stock Name :RCOM
+2025-02-09 17:10:07 INFO  StockTest:32 - Navigated to NSE India website
+2025-02-09 17:10:07 INFO  SearchResultpage:28 - Waiting for the current value element to become visible
+2025-02-09 17:10:08 INFO  SearchResultpage:37 - current stock value retrieved
+2025-02-09 17:10:08 INFO  SearchResultpage:43 - Waiting for the 52-week high value element to become visible
+2025-02-09 17:10:08 INFO  SearchResultpage:53 - 52 week high value retrieved
+2025-02-09 17:10:08 INFO  SearchResultpage:59 - Waiting for the 52-week low value element to become visible
+2025-02-09 17:10:08 INFO  SearchResultpage:69 - 52 week low value retrieved
+2025-02-09 17:10:08 INFO  BaseTest:105 - Capturing screenshot for faied test: verifyStockInformation
+2025-02-09 17:10:08 INFO  BaseTest:118 - Screenshot saved at: C:\Users\Vineetha\eclipse-workspace12\StockAutomation\Screenshots\verifyStockInformation_2025_02_40_05_10_08.png
+2025-02-09 17:10:08 INFO  BaseTest:98 - Browser closed and resources cleaned up for browser: chrome
+2025-02-09 17:17:07 INFO  WebDriverManager:1212 - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-09 17:17:07 INFO  WebDriverManager:1265 - Exporting webdriver.chrome.driver as C:\Users\Vineetha\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-09 17:17:08 INFO  BaseTest:64 - Browser setup completed successfully for browser: chrome
+2025-02-09 17:17:08 INFO  StockTest:19 - Starting the stock information verification test
+2025-02-09 17:17:08 INFO  StockTest:27 - Base URL : https://www.nseindia.com/get-quotes/equity?symbol=TATACONSUM
+2025-02-09 17:17:08 INFO  StockTest:28 - Stock Name :TATACONSUM
+2025-02-09 17:17:11 INFO  StockTest:32 - Navigated to NSE India website
+2025-02-09 17:17:11 INFO  SearchResultpage:28 - Waiting for the current value element to become visible
+2025-02-09 17:17:24 INFO  WebDriverManager:1212 - Using chromedriver 132.0.6834.159 (resolved driver for Chrome 132)
+2025-02-09 17:17:24 INFO  WebDriverManager:1265 - Exporting webdriver.chrome.driver as C:\Users\Vineetha\.cache\selenium\chromedriver\win64\132.0.6834.159\chromedriver.exe
+2025-02-09 17:17:26 INFO  BaseTest:64 - Browser setup completed successfully for browser: chrome
+2025-02-09 17:17:26 INFO  StockTest:19 - Starting the stock information verification test
+2025-02-09 17:17:26 INFO  StockTest:27 - Base URL : https://www.nseindia.com/get-quotes/equity?symbol=TATACONSUM
+2025-02-09 17:17:26 INFO  StockTest:28 - Stock Name :TATACONSUM
+2025-02-09 17:17:31 INFO  BaseTest:105 - Capturing screenshot for faied test: verifyStockInformation
+2025-02-09 17:17:34 INFO  StockTest:32 - Navigated to NSE India website
+2025-02-09 17:17:34 INFO  SearchResultpage:28 - Waiting for the current value element to become visible
+2025-02-09 17:17:34 INFO  SearchResultpage:37 - current stock value retrieved
+2025-02-09 17:17:34 INFO  SearchResultpage:43 - Waiting for the 52-week high value element to become visible
+2025-02-09 17:17:35 INFO  SearchResultpage:53 - 52 week high value retrieved
+2025-02-09 17:17:35 INFO  SearchResultpage:59 - Waiting for the 52-week low value element to become visible
+2025-02-09 17:17:35 INFO  SearchResultpage:69 - 52 week low value retrieved
+2025-02-09 17:17:35 INFO  SearchResultpage:28 - Waiting for the current value element to become visible
+2025-02-09 17:17:35 INFO  SearchResultpage:37 - current stock value retrieved
+2025-02-09 17:17:35 INFO  SearchResultpage:43 - Waiting for the 52-week high value element to become visible
+2025-02-09 17:17:35 INFO  SearchResultpage:53 - 52 week high value retrieved
+2025-02-09 17:17:35 INFO  SearchResultpage:59 - Waiting for the 52-week low value element to become visible
+2025-02-09 17:17:35 INFO  SearchResultpage:69 - 52 week low value retrieved
+2025-02-09 17:17:35 INFO  SearchResultpage:86 - Calculating values for profit and loss
+2025-02-09 17:17:35 INFO  StockTest:71 - stock information verification test completed successfully
+2025-02-09 17:17:35 INFO  BaseTest:98 - Browser closed and resources cleaned up for browser: chrome

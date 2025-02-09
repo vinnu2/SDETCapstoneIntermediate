@@ -1,0 +1,21 @@
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="listeners.Reporting" />
+	</listeners>
+
+	<!-- Single Browser Execution -->
+	<test name="SingleBrowserTest">
+		<parameter name="browser" value="chrome" /> <!-- Change the value to
+		'firefox' or 'edge' for other browsers -->
+		<classes>
+			<class name="tests.StockTest" />
+		</classes>
+	</test>
+
+</suite>
+
+
